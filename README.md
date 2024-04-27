@@ -66,7 +66,7 @@ you can watch the video via clicking the image below
 
 # Reference
 - 안드레아스 M. 안토노폴로스 외. (2019). "마스터링 이더리움: 스마트 컨트랙트 및 댑 구축하기". 박성훈 외(역). 제이펍
-- Andreas Antonopoulos & Gavin Wood Ph.D. "Mastering Ethereum: Building Smart Contracts and DApps". O'Reilly Media.
+- Andreas Antonopoulos & Gavin Wood Ph.D. (2018). "Mastering Ethereum: Building Smart Contracts and DApps". O'Reilly Media.
    - [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)
 - [https://docs.soliditylang.org/en/v0.8.25/](https://docs.soliditylang.org/en/v0.8.25/)
 - [https://www.w3schools.io/blockchain/solidity-comments/](https://www.w3schools.io/blockchain/solidity-comments/)
