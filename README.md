@@ -31,6 +31,9 @@ you can watch the video via clicking the image below
 
 [https://youtu.be/MEiX_zkOOQE](https://youtu.be/MEiX_zkOOQE)
 
+# requirements
+- solidity >=0.8.2 <0.9.0
+
 # how to run?
 1. visit solidity web compiler 'remix' [https://remix.ethereum.org/](https://remix.ethereum.org/)
 2. create new workspace
